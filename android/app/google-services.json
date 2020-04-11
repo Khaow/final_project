@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444531766100",
+    "firebase_url": "https://rent-or-buy-dindaeng.firebaseio.com",
+    "project_id": "rent-or-buy-dindaeng",
+    "storage_bucket": "rent-or-buy-dindaeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444531766100:android:53582179f2e235e7534ec1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444531766100-j9vh3tcen8jiacn419971g643m9rua3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7q9zU8icYnqNtOOGSXhy5XD7aVPEHoAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444531766100-j9vh3tcen8jiacn419971g643m9rua3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
